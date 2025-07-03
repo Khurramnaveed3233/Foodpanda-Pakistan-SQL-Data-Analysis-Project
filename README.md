@@ -54,8 +54,8 @@ Using structured data tables such as orders, customers, time, products, delivery
 **Khurram Naveed**  
 Data Analyst | SQL | Power BI | Excel  
 📍 Arif Wala, Pakistan  
-📫 [LinkedIn : https://www.linkedin.com/in/khurram-naveed-0083851aa/
-| ✉️ khurramnaveed4545example.com  
+📫 LinkedIn : https://www.linkedin.com/in/khurram-naveed-0083851aa/
+✉️ khurramnaveed4545example.com  
 
 ---
 
