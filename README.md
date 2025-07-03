@@ -1,5 +1,8 @@
 # Foodpanda-Pakistan-SQL-Data-Analysis-Project
 
+![Capture](https://github.com/user-attachments/assets/61e27904-f341-42c9-ab91-86ab301931d4)
+
+
 # 🍽️ Foodpanda Pakistan – SQL Data Analysis Project
 
 This project presents a comprehensive SQL-based data analysis of Foodpanda's operational data in Pakistan. It highlights key business metrics including revenue trends, delivery performance, customer behavior, and payment preferences to generate actionable insights for growth and efficiency.
@@ -42,3 +45,19 @@ Using structured data tables such as orders, customers, time, products, delivery
 - **SQL Server**: Data extraction, aggregation, and transformation
 - **Power BI / Excel** *(optional)*: For dashboard development and visualization
 - **GitHub**: Version control and project presentation
+
+
+---
+
+## 👨‍💻 About Me
+
+**Khurram Naveed**  
+Data Analyst | SQL | Power BI | Excel  
+📍 Arif Wala, Pakistan  
+📫 [LinkedIn : https://www.linkedin.com/in/khurram-naveed-0083851aa/
+| ✉️ khurramnaveed4545example.com  
+
+---
+
+⭐ *If you found this project helpful or insightful, please consider giving it a star.*
+
